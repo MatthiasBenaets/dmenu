@@ -1,0 +1,8 @@
+original
+*.orig
+*.rej
+*.swp
+*.o
+config.h
+dmenu
+stest
